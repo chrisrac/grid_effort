@@ -20,5 +20,5 @@ No parallelization is made yet. Some initial problems identified and discussed o
 Possible improvements:
 - [ ] slicing domain and running in batch/multiprocess
 - [ ] using Kerrie's Dask idea to improve performance
-- [ ] increase file read time
+- [ ] improve file read time
 
